@@ -11,4 +11,4 @@ Artificical Neural Network
 
 Task4
 Clustering Algorithms
-Dimensionaly reduction feature algorithms
+Feature Dimensionality Reduction algorithms
