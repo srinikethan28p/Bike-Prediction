@@ -10,5 +10,5 @@ Task3
 Artificical Neural Network
 
 Task4
-Clustering Algorithms
+Clustering Algorithms &
 Feature Dimensionality Reduction algorithms
